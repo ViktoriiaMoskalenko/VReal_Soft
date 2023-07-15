@@ -72,7 +72,7 @@ function WeatherSearch() {
         style={{ backgroundColor: '#459de9' }}
         variant="contained"
       >
-        {t('add')}
+        {t('weatherCard.add')}
       </Button>
     </div>
   );
