@@ -1,0 +1,34 @@
+{
+  "weatherCard": {
+    "remove": "לְהַסִיר",
+    "wind": "רוּחַ",
+    "humidity": "לחות",
+    "pressure": "לַחַץ",
+    "feelsLike": "מרגיש כמו",
+    "permission": "אפשר גישה למיקום גיאוגרפי",
+    "add": "לְהוֹסִיף"
+  },
+  "months": {
+    "january": "ינואר",
+    "february": "פברואר",
+    "march": "מרץ",
+    "april": "אפריל",
+    "may": "מאי",
+    "june": "יוני",
+    "july": "יולי",
+    "august": "אוגוסט",
+    "september": "ספטמבר",
+    "october": "אוקטובר",
+    "november": "נובמבר",
+    "december": "דצמבר"
+  },
+  "days": {
+    "sunday": "ראשון",
+    "monday": "שני",
+    "tuesday": "שלישי",
+    "wednesday": "רביעי",
+    "thursday": "חמישי",
+    "friday": "שישי",
+    "saturday": "שבת"
+  }
+}
