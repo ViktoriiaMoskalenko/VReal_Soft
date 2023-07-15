@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VReal_Soft/static/css/main.23054987.css",
-    "main.js": "/VReal_Soft/static/js/main.841c7155.js",
+    "main.js": "/VReal_Soft/static/js/main.80ca8f97.js",
     "index.html": "/VReal_Soft/index.html",
     "main.23054987.css.map": "/VReal_Soft/static/css/main.23054987.css.map",
-    "main.841c7155.js.map": "/VReal_Soft/static/js/main.841c7155.js.map"
+    "main.80ca8f97.js.map": "/VReal_Soft/static/js/main.80ca8f97.js.map"
   },
   "entrypoints": [
     "static/css/main.23054987.css",
-    "static/js/main.841c7155.js"
+    "static/js/main.80ca8f97.js"
   ]
 }
